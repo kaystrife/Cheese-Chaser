@@ -1,0 +1,8 @@
+*.meta
+Product_Data/
+Internal/
+Accessories_Data/
+WaitForSceneChange.cs
+TouchDrawLine.cs
+MoveObject.cs
+LifeText.cs
